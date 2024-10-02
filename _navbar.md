@@ -1,0 +1,7 @@
+  * [c语言](/docs/aa.md)
+  * [C++](/docs/aa.md)
+  * [linux](/docs/aa.md)
+  * [MySQL数据库](/docs/mysql/基础.md)
+  * [Qt](/docs/aa.md)
+  * [数据结构](/docs/数据结构/text1.md)
+  * [算法](/docs/算法/数组.md)
